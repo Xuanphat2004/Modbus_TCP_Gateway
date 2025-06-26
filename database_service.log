@@ -1,0 +1,517 @@
+2025-06-23 10:22:59,459 Server listening.
+2025-06-23 10:29:27,910 Server graceful shutdown.
+2025-06-23 10:29:49,908 Server listening.
+2025-06-23 10:35:49,784 Server graceful shutdown.
+2025-06-23 10:43:06,943 Server listening.
+2025-06-23 10:45:22,613 Server graceful shutdown.
+2025-06-23 10:45:34,314 Server listening.
+2025-06-23 10:45:41,770 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:45:44,705 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:45:47,701 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:45:50,705 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:55:08,144 Server graceful shutdown.
+2025-06-23 10:55:13,237 Server listening.
+2025-06-23 10:55:20,739 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:55:23,745 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:55:26,754 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:55:29,758 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:56:06,371 Server graceful shutdown.
+2025-06-23 10:56:16,908 Server listening.
+2025-06-23 10:56:23,482 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:56:26,490 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:56:29,490 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:56:32,504 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 10:56:45,757 Server graceful shutdown.
+2025-06-23 11:01:48,333 Server listening.
+2025-06-23 11:01:53,757 Log [ModbusTCP]: No mapping for TCP address 1000
+2025-06-23 11:01:56,749 Log [ModbusTCP]: No mapping for TCP address 1000
+2025-06-23 11:01:59,751 Log [ModbusTCP]: No mapping for TCP address 1000
+2025-06-23 11:02:02,768 Log [ModbusTCP]: No mapping for TCP address 1000
+2025-06-23 11:07:02,602 Server graceful shutdown.
+2025-06-23 11:08:39,150 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080
+2025-06-23 11:08:39,150 [33mPress CTRL+C to quit[0m
+2025-06-23 11:08:39,150  * Restarting with stat
+2025-06-23 11:08:39,428  * Debugger is active!
+2025-06-23 11:08:39,428  * Debugger PIN: 371-867-881
+2025-06-23 11:09:20,441 192.168.1.4 - - [23/Jun/2025 11:09:20] "GET / HTTP/1.1" 200 -
+2025-06-23 11:09:20,533 192.168.1.4 - - [23/Jun/2025 11:09:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-23 11:11:43,060  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_client.py', reloading
+2025-06-23 11:11:43,075  * Restarting with stat
+2025-06-23 11:11:43,371  * Debugger is active!
+2025-06-23 11:11:43,373  * Debugger PIN: 371-867-881
+2025-06-23 11:11:46,020  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_client.py', reloading
+2025-06-23 11:11:46,063  * Restarting with stat
+2025-06-23 11:11:46,339  * Debugger is active!
+2025-06-23 11:11:46,339  * Debugger PIN: 371-867-881
+2025-06-23 11:11:48,914  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_client.py', reloading
+2025-06-23 11:11:48,945  * Restarting with stat
+2025-06-23 11:11:49,236  * Debugger is active!
+2025-06-23 11:11:49,236  * Debugger PIN: 371-867-881
+2025-06-23 11:12:28,939 Server listening.
+2025-06-23 11:12:53,819 Server graceful shutdown.
+2025-06-23 11:13:18,425 Added mapping: TCP 1000 -> RTU ID 2, Address 234
+2025-06-23 11:13:18,426 192.168.1.4 - - [23/Jun/2025 11:13:18] "[32mPOST /add_mapping HTTP/1.1[0m" 302 -
+2025-06-23 11:13:18,438 192.168.1.4 - - [23/Jun/2025 11:13:18] "GET / HTTP/1.1" 200 -
+2025-06-23 11:13:32,423  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_client.py', reloading
+2025-06-23 11:13:32,455  * Restarting with stat
+2025-06-23 11:13:32,736  * Debugger is active!
+2025-06-23 11:13:32,736  * Debugger PIN: 371-867-881
+2025-06-23 11:13:40,080 Server listening.
+2025-06-23 11:13:47,327 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:13:50,341 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:13:53,356 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:13:56,366 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 85, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:14:13,262  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_service.py', reloading
+2025-06-23 11:14:13,293  * Restarting with stat
+2025-06-23 11:14:13,613  * Debugger is active!
+2025-06-23 11:14:13,613  * Debugger PIN: 371-867-881
+2025-06-23 11:14:17,355  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_service.py', reloading
+2025-06-23 11:14:17,394  * Restarting with stat
+2025-06-23 11:14:17,743  * Debugger is active!
+2025-06-23 11:14:17,746  * Debugger PIN: 371-867-881
+2025-06-23 11:14:28,626  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_service.py', reloading
+2025-06-23 11:14:28,687  * Restarting with stat
+2025-06-23 11:14:29,019  * Debugger is active!
+2025-06-23 11:14:29,036  * Debugger PIN: 371-867-881
+2025-06-23 11:14:38,023  * Detected change in 'D:\\Intern\\gateway\\modbus_tcp_service.py', reloading
+2025-06-23 11:14:38,053  * Restarting with stat
+2025-06-23 11:14:38,330  * Debugger is active!
+2025-06-23 11:14:38,347  * Debugger PIN: 371-867-881
+2025-06-23 11:14:40,085 Server graceful shutdown.
+2025-06-23 11:14:46,430 Server listening.
+2025-06-23 11:14:52,482 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:14:55,488 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:14:58,486 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:15:01,499 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 11:19:15,328 Server graceful shutdown.
+2025-06-23 14:50:58,905 Server listening.
+2025-06-23 14:52:24,125 Server graceful shutdown.
+2025-06-23 14:53:32,205 Server listening.
+2025-06-23 14:53:36,858 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 14:53:39,870 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 14:53:42,878 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 14:53:45,887 Datastore unable to fulfill request: argument of type 'NoneType' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 86, in update_datastore
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+2025-06-23 14:56:42,917 Server graceful shutdown.
+2025-06-24 15:03:41,743 Server listening.
+2025-06-24 15:03:52,771 Datastore unable to fulfill request: argument of type 'int' is not iterable; Traceback (most recent call last):
+  File "C:\Python\Python311\Lib\site-packages\pymodbus\server\requesthandler.py", line 109, in handle_request
+    response = await self.last_pdu.update_datastore(context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 62, in update_datastore
+    result = await handle_modbus_request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Intern\gateway\modbus_tcp_service.py", line 50, in handle_modbus_request
+    if "error" in result:
+       ^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'int' is not iterable
+
+2025-06-24 15:05:35,766 Server graceful shutdown.
+2025-06-24 15:05:40,234 Server listening.
+2025-06-24 15:41:00,402 Server graceful shutdown.
+2025-06-24 15:41:02,291 Server listening.
+2025-06-24 15:41:30,161 Server graceful shutdown.
+2025-06-24 15:42:29,728 Server listening.
+2025-06-24 15:42:38,123 Server graceful shutdown.
+2025-06-24 16:14:28,321 Server listening.
+2025-06-24 16:15:15,463 Server graceful shutdown.
+2025-06-25 10:29:10,036 Server listening.
+2025-06-25 10:30:22,090 Server graceful shutdown.
+2025-06-25 10:31:55,140 Server listening.
+2025-06-25 10:33:17,473 Server graceful shutdown.
+2025-06-25 10:34:17,882 Server listening.
+2025-06-25 10:34:32,115 Server graceful shutdown.
+2025-06-25 10:35:07,546 Server listening.
+2025-06-25 10:35:24,372 Server graceful shutdown.
+2025-06-25 10:42:00,273 Server listening.
+2025-06-25 10:42:07,833 Server graceful shutdown.
+2025-06-25 10:49:13,269 Server listening.
+2025-06-25 10:49:17,534 Server graceful shutdown.
+2025-06-25 10:50:07,370 Server listening.
+2025-06-25 13:34:06,228 Server listening.
+2025-06-25 13:41:03,915 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 13:41:03,916 [33mPress CTRL+C to quit[0m
+2025-06-25 13:41:03,917  * Restarting with stat
+2025-06-25 13:41:04,168  * Debugger is active!
+2025-06-25 13:41:04,446  * Debugger PIN: 115-814-280
+2025-06-25 13:43:18,446 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-25 13:43:27,651 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:43:30,409 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:43:30,423 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:43:33,413 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:43:33,418 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:43:36,415 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:43:36,419 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:48:23,673 Server listening.
+2025-06-25 13:48:54,846 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-25 13:49:16,143 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:49:16,147 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:49:19,139 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:49:19,143 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:49:22,138 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:49:22,142 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:49:25,145 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 13:49:25,150 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 13:51:32,123 Server graceful shutdown.
+2025-06-25 13:51:36,929 Server listening.
+2025-06-25 13:51:42,853 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-25 14:00:14,593 Server listening.
+2025-06-25 14:00:35,377 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-25 14:01:07,840 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:01:07,846 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:01:10,827 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:01:10,831 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:01:13,838 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:01:13,843 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:01:16,839 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:01:16,844 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:38:53,945 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:38:54,031 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:38:56,443 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:38:56,448 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:38:59,444 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:38:59,449 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 14:39:02,450 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 14:39:02,454 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 15:06:32,010 Server graceful shutdown.
+2025-06-25 15:26:53,992 Server listening.
+2025-06-25 15:27:36,302 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 15:27:36,438 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 15:27:38,993 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 15:27:38,998 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 15:27:41,997 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 15:27:42,005 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 15:27:45,000 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 15:27:45,006 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 15:35:16,227 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 15:35:16,230 [33mPress CTRL+C to quit[0m
+2025-06-25 15:35:16,244  * Restarting with stat
+2025-06-25 15:35:16,929  * Debugger is active!
+2025-06-25 15:35:16,954  * Debugger PIN: 122-007-613
+2025-06-25 15:53:58,026 127.0.0.1 - - [25/Jun/2025 15:53:58] "GET / HTTP/1.1" 200 -
+2025-06-25 15:53:59,357 127.0.0.1 - - [25/Jun/2025 15:53:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-25 15:54:15,028 Added mapping: TCP 10001 -> RTU ID 3, Address 1
+2025-06-25 15:54:15,033 127.0.0.1 - - [25/Jun/2025 15:54:15] "[32mPOST /add_mapping HTTP/1.1[0m" 302 -
+2025-06-25 15:54:15,046 127.0.0.1 - - [25/Jun/2025 15:54:15] "GET / HTTP/1.1" 200 -
+2025-06-25 16:00:32,459  * Detected change in '/home/xuanphat/Downloads/demo_2/gateway/ui_service.py', reloading
+2025-06-25 16:00:34,519  * Restarting with stat
+2025-06-25 16:01:12,170 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 16:01:12,171 [33mPress CTRL+C to quit[0m
+2025-06-25 16:01:12,175  * Restarting with stat
+2025-06-25 16:01:12,332  * Debugger is active!
+2025-06-25 16:01:12,355  * Debugger PIN: 140-256-542
+2025-06-25 16:01:44,823 127.0.0.1 - - [25/Jun/2025 16:01:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:01:45,979 127.0.0.1 - - [25/Jun/2025 16:01:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-25 16:01:45,979 127.0.0.1 - - [25/Jun/2025 16:01:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-25 16:01:46,474 127.0.0.1 - - [25/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-25 16:01:46,509 127.0.0.1 - - [25/Jun/2025 16:01:46] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=SeKhh4l6lRImHzw83FC4 HTTP/1.1" 200 -
+2025-06-25 16:04:07,234 127.0.0.1 - - [25/Jun/2025 16:04:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:04:07,921 127.0.0.1 - - [25/Jun/2025 16:04:07] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-25 16:04:07,923 127.0.0.1 - - [25/Jun/2025 16:04:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-25 16:04:08,274 127.0.0.1 - - [25/Jun/2025 16:04:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=SeKhh4l6lRImHzw83FC4 HTTP/1.1[0m" 304 -
+2025-06-25 16:10:27,430  * Detected change in '/home/xuanphat/Downloads/demo_2/gateway/ui_service.py', reloading
+2025-06-25 16:10:29,996  * Restarting with stat
+2025-06-25 16:10:31,595  * Debugger is active!
+2025-06-25 16:10:31,639  * Debugger PIN: 140-256-542
+2025-06-25 16:17:04,656 Server listening.
+2025-06-25 16:17:45,521 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-25 16:18:14,552 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 16:18:14,558 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 16:18:17,547 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 16:18:17,552 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 16:18:20,555 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 16:18:20,559 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 16:18:23,550 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-25 16:18:23,554 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-25 16:18:56,176 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 16:18:56,176 [33mPress CTRL+C to quit[0m
+2025-06-25 16:18:56,178  * Restarting with stat
+2025-06-25 16:18:56,304  * Debugger is active!
+2025-06-25 16:18:56,314  * Debugger PIN: 284-824-875
+2025-06-25 16:19:00,635 127.0.0.1 - - [25/Jun/2025 16:19:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:19:00,940 127.0.0.1 - - [25/Jun/2025 16:19:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-25 16:19:00,940 127.0.0.1 - - [25/Jun/2025 16:19:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-25 16:19:01,135 127.0.0.1 - - [25/Jun/2025 16:19:01] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=gLxlb7sYkTrJmyLTF8p5 HTTP/1.1" 200 -
+2025-06-25 16:20:05,556 127.0.0.1 - - [25/Jun/2025 16:20:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:20:06,153 127.0.0.1 - - [25/Jun/2025 16:20:06] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-25 16:20:06,153 127.0.0.1 - - [25/Jun/2025 16:20:06] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-25 16:20:06,304 127.0.0.1 - - [25/Jun/2025 16:20:06] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=gLxlb7sYkTrJmyLTF8p5 HTTP/1.1[0m" 304 -
+2025-06-25 16:33:42,489 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 16:33:42,490 [33mPress CTRL+C to quit[0m
+2025-06-25 16:33:42,492  * Restarting with stat
+2025-06-25 16:33:42,663  * Debugger is active!
+2025-06-25 16:33:42,678  * Debugger PIN: 428-402-106
+2025-06-25 16:34:02,320 127.0.0.1 - - [25/Jun/2025 16:34:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:34:02,722 127.0.0.1 - - [25/Jun/2025 16:34:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-25 16:34:02,723 127.0.0.1 - - [25/Jun/2025 16:34:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-25 16:34:03,062 127.0.0.1 - - [25/Jun/2025 16:34:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=jyCRgJR49F4diNdpzd9D HTTP/1.1" 200 -
+2025-06-25 16:51:21,291 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-25 16:51:21,293 [33mPress CTRL+C to quit[0m
+2025-06-25 16:51:21,295  * Restarting with stat
+2025-06-25 16:51:21,436  * Debugger is active!
+2025-06-25 16:51:21,461  * Debugger PIN: 100-174-478
+2025-06-25 16:51:37,498 127.0.0.1 - - [25/Jun/2025 16:51:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-25 16:51:38,033 127.0.0.1 - - [25/Jun/2025 16:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-25 16:51:38,034 127.0.0.1 - - [25/Jun/2025 16:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-25 16:51:38,482 127.0.0.1 - - [25/Jun/2025 16:51:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=nYIB2mBQvUHx4F2oZss8 HTTP/1.1" 200 -
+2025-06-25 16:52:27,343 127.0.0.1 - - [25/Jun/2025 16:52:27] "GET / HTTP/1.1" 200 -
+2025-06-25 16:52:41,379 127.0.0.1 - - [25/Jun/2025 16:52:41] "[32mPOST /delete_mapping/123123 HTTP/1.1[0m" 302 -
+2025-06-25 16:52:41,391 127.0.0.1 - - [25/Jun/2025 16:52:41] "GET / HTTP/1.1" 200 -
+2025-06-25 16:52:51,776 Added mapping: TCP 40001 -> RTU ID 1, Address 8
+2025-06-25 16:52:51,776 127.0.0.1 - - [25/Jun/2025 16:52:51] "[32mPOST /add_mapping HTTP/1.1[0m" 302 -
+2025-06-25 16:52:51,788 127.0.0.1 - - [25/Jun/2025 16:52:51] "GET / HTTP/1.1" 200 -
+2025-06-26 07:59:14,810 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-26 08:00:35,709 Server listening.
+2025-06-26 08:00:59,865 Failed to connect Could not configure port: (5, 'Input/output error')
+2025-06-26 08:01:22,270 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:01:22,276 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:01:25,267 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:01:25,271 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:01:28,274 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:01:28,278 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:01:31,281 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:01:31,287 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:01:49,212 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.74.132:8080
+2025-06-26 08:01:49,212 [33mPress CTRL+C to quit[0m
+2025-06-26 08:01:49,214  * Restarting with stat
+2025-06-26 08:01:49,359  * Debugger is active!
+2025-06-26 08:01:49,450  * Debugger PIN: 855-677-562
+2025-06-26 08:02:36,473 127.0.0.1 - - [26/Jun/2025 08:02:36] "GET / HTTP/1.1" 200 -
+2025-06-26 08:02:53,569 Added mapping: TCP 40002 -> RTU ID 1, Address 2
+2025-06-26 08:02:53,571 127.0.0.1 - - [26/Jun/2025 08:02:53] "[32mPOST /add_mapping HTTP/1.1[0m" 302 -
+2025-06-26 08:02:53,580 127.0.0.1 - - [26/Jun/2025 08:02:53] "GET / HTTP/1.1" 200 -
+2025-06-26 08:05:08,626 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:05:08,729 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:05:11,214 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:05:11,220 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:05:14,217 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:05:14,222 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:05:17,224 Log [ModbusRTU]: Exception for RTU ID 2: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:05:17,231 Log [ModbusTCP]: Response for TCP 1000: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:08:16,888  * Detected change in '/home/xuanphat/Downloads/demo_2/gateway/modbus_tcp_client.py', reloading
+2025-06-26 08:08:17,512  * Restarting with stat
+2025-06-26 08:08:18,027  * Debugger is active!
+2025-06-26 08:08:18,033  * Debugger PIN: 855-677-562
+2025-06-26 08:08:29,475 Log [ModbusRTU]: Exception for RTU ID 1: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:08:29,542 Log [ModbusTCP]: Response for TCP 40001: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:08:32,145 Log [ModbusRTU]: Exception for RTU ID 1: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:08:32,153 Log [ModbusTCP]: Response for TCP 40001: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:08:35,150 Log [ModbusRTU]: Exception for RTU ID 1: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:08:35,155 Log [ModbusTCP]: Response for TCP 40001: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
+2025-06-26 08:08:38,153 Log [ModbusRTU]: Exception for RTU ID 1: Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]
+2025-06-26 08:08:38,157 Log [ModbusTCP]: Response for TCP 40001: {'error': 'Modbus Error: [Connection] Not connected[AsyncModbusSerialClient /dev/ttyS0:0]'}
